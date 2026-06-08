@@ -1,0 +1,9 @@
+{
+    "selected_model": "Improved Binary CNN",
+    "model_path": "c:\\Users\\Carla Bozintan\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\Facultate\\Facultate\\An3\\SI\\solar-medic-project\\models\\binary_cnn_improved.keras",
+    "general_purpose_threshold": 0.5,
+    "screening_threshold": 0.16303743422031403,
+    "threshold_selection_method": "Validation F2-score optimization",
+    "test_recall_at_screening_threshold": 0.9366666666666666,
+    "test_false_negatives_at_screening_threshold": 95
+}

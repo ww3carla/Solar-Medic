@@ -1,0 +1,2 @@
+Experiment,Task,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Model_Path
+Binary CNN Baseline,Normal vs Anomaly Detected,0.8220000267028809,0.903171956539154,0.7213333249092102,0.8020756115641215,0.90748,c:\Users\Carla Bozintan\OneDrive - Technical University of Cluj-Napoca\Desktop\Facultate\Facultate\An3\SI\solar-medic-project\models\binary_cnn_baseline.keras
